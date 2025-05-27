@@ -64,23 +64,23 @@ src/
 
 ## 📋 Problem Overview
 
-| No | Problem Description | Marks |
-|----|----------------------|-------|
-| 1  | Find 2nd highest CGPA without sorting (linear search) | 10 |
-| 2  | Sort CGPAs in descending order (without Arrays.sort) | 10 |
-| 3  | Search CGPA using binary search | 5 |
-| 4  | Generate 10 random integers, find min and max | 5 |
-| 5  | Count notes from given amount using denominations | 10 |
-| 6  | Print a specific number pattern | 5 |
-| 7  | Find 2 smallest heights (no Arrays.sort) | 10 |
-| 8  | Count words, characters (no space), vowels, consonants | 5 |
-| 9  | Check if a string is binary or not | 5 |
-| 10 | Generate 8-char strong password (with rules) | 5 |
-| 11 | Remove vowels from a string | 5 |
-| 12 | Calculate price with discount from paragraph | 10 |
-| 13 | Extract Transaction ID from HTML | 5 |
-| 14 | Validate IP address format with conditions | 5 |
-| 15 | Find how many 5/10 mark questions total to 100 | 5 |
+| No | Problem Description |
+|----|----------------------|
+| 1  | Find 2nd highest CGPA without sorting (linear search) 
+| 2  | Sort CGPAs in descending order (without Arrays.sort)
+| 3  | Search CGPA using binary search
+| 4  | Generate 10 random integers, find min and max 
+| 5  | Count notes from given amount using denominations 
+| 6  | Print a specific number pattern 
+| 7  | Find 2 smallest heights (no Arrays.sort) 
+| 8  | Count words, characters (no space), vowels, consonants 
+| 9  | Check if a string is binary or not 
+| 10 | Generate 8-char strong password (with rules) 
+| 11 | Remove vowels from a string
+| 12 | Calculate price with discount from paragraph 
+| 13 | Extract Transaction ID from HTML 
+| 14 | Validate IP address format with conditions 
+| 15 | Find how many 5/10 mark questions total to 100 
 
 ---
 
